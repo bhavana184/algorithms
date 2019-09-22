@@ -1,0 +1,3 @@
+23 found at position 1 after 3 comparisons
+68  not found  
+67 found at position 7 after 3 comparisons
